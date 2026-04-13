@@ -15,9 +15,11 @@ This project predicts used car prices using machine learning models.
 - car_age
 
 ## Dataset Location
-Make sure the dataset file is inside the `data` folder:
-
 data/used_car_price_dataset_extended.csv
+
+## Results
+
+![Model Results](outputs/all_5_graphs.png)
 
 ## Install Required Libraries
 ```bash
